@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Stuckey Web Research</title>
+<meta charset="utf-8">
+<link rel="stylesheet" type="text/css" href="./slick/slick.css?v2022">
+ <link rel="stylesheet" type="text/css" href="./slick/slick-theme.css?v2022">
+</head>
+<body>
+<header>
+	<h1>Jessica Stuckey Web Research: jQuery</h1>
+</header>
+<main>
+<h2>Basic</h2>
+  <section class="regular slider">
+    <div>
+      <img src="https://via.placeholder.com/350x300?text=1">
+    </div>
+    <div>
+      <img src="https://via.placeholder.com/350x300?text=2">
+    </div>
+    <div>
+      <img src="https://via.placeholder.com/350x300?text=3">
+    </div>
+    <div>
+      <img src="https://via.placeholder.com/350x300?text=4">
+    </div>
+    <div>
+      <img src="https://via.placeholder.com/350x300?text=5">
+    </div>
+    <div>
+      <img src="https://via.placeholder.com/350x300?text=6">
+    </div>
+
+
+
+
+</main>
+</body>
+</html>
